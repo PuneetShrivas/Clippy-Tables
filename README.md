@@ -1,7 +1,3 @@
----
-layout: default
-title: Clippy-Tables - Your Google Sheets AI Assistant
----
 
 # Clippy-Tables
 

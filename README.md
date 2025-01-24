@@ -1,3 +1,7 @@
+---
+layout: default
+title: Clippy-Tables - Your Google Sheets AI Assistant
+---
 
 # Clippy-Tables
 
@@ -66,6 +70,14 @@ Clippy-Tables leverages state-of-the-art generative AI models to provide:
 
 ---
 
+## 📃 Terms of Service
+By using Clippy-Tables, you agree to our [Terms of Service](./terms-of-service.md).
+
+## 🔒 Privacy Policy
+Your privacy is important to us. Learn more about how we handle your data in our [Privacy Policy](./privacy-policy.md).
+
+---
+
 ## 💡 Get Started Today!
 Unlock the full potential of Google Sheets with Clippy-Tables. Whether you're managing business data, conducting research, or creating presentations, Clippy-Tables makes your tasks easier, faster, and more impactful.
 
@@ -74,7 +86,7 @@ Unlock the full potential of Google Sheets with Clippy-Tables. Whether you're ma
 ---
 
 ## 📬 Feedback & Support
-We’d love to hear from you! Share your feedback or get support by opening an issue in our [GitHub repository](https://github.com/your-repo/clippy-tables).
+We’d love to hear from you! Share your feedback or get support by opening an issue in our [GitHub repository](https://github.com/your-repo/clippy-tables). For direct inquiries, connect with [Puneet Shrivas on LinkedIn](https://linkedin.com/in/puneet-shrivas).
 
 ---
 

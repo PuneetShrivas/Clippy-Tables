@@ -1,6 +1,6 @@
 # Clippy-Tables
 
-![Clippy-Tables Logo](./logo.png)
+![Clippy-Tables Logo](./images.jpg)
 
 ### Google Sheets Assistant for Seamless Table Manipulation and Generative AI-Driven Visualizations
 
